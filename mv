@@ -1,0 +1,18 @@
+# The mv command moves and remove files. 
+
+# To move a file (file) to another directory (folder) and give it a new name (newname), type the following:
+
+mv file folder/newname
+
+
+# To move a file to another directory, keeping the same name, type the following:
+
+mv file folder
+
+
+#To rename a file, type the following:
+
+mv file newname
+
+# This renames the 'file' file to 'newname'. 
+# If a file named 'newname' already exists, its old contents are replaced with those of the 'newname' file.
