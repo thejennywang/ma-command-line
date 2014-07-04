@@ -1,0 +1,4 @@
+the grep command searches for a character string in a file and displays those instances, if any, after the command is entered.
+
+It is used like this:
+grep string file
