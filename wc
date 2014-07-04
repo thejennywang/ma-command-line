@@ -1,0 +1,14 @@
+wc stands for 'word count' and prints the line count, word count, and character count of a file. An extension of this command is wc -l which prints only the line count of a file.
+
+Counting words in a file works like this:
+wc filename
+
+The output would look like this:
+      18      86     488 mv
+  This means there are 18 lines, 86 words and 488 characters in the file 'mv'
+
+Counting lines in a file works like this:
+wc -l filename
+
+The output would look like this:
+      18 mv
